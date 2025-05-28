@@ -1,3 +1,3 @@
-export default function sum(a, b) {
-  /* ваш код */
+export default function sum(b, a) {
+  return b + a;
 }
